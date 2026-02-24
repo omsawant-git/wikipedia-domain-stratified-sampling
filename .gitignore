@@ -1,0 +1,17 @@
+# Python
+myenv/
+bin/
+lib/
+lib64/
+include/
+share/
+pyvenv.cfg
+__pycache__/
+*.pyc
+
+# Data files (too large for GitHub)
+*.jsonl
+*.json
+
+# OS
+.DS_Store
